@@ -1,5 +1,37 @@
-# 💫 About Me:
-🛰️ I’m currently working on<br>Research in artificial intelligence across areas like reinforcement learning, large language models, and computer vision. My focus is on building intelligent systems for real-world applications such as smart automation, language understanding, and behavioral prediction.<br><br>👯‍♂️ I’m looking to collaborate on<br>AI-driven products that blend vision, language, and real-world impact, especially in the fields of natural language processing, computer vision, and predictive analytics.<br><br>🤝 I’m looking for help with<br>Scaling transformer-based models and deploying multimodal AI systems that learn and adapt from real-time feedback.<br><br>🌱 I’m currently learning<br>Advanced reinforcement learning techniques, Microsoft Fabric for data engineering, and the internals of Vision Transformers for accurate perception models.<br><br>💬 Ask me about<br>AI for agriculture, proactive LLMs, building data pipelines using Databricks and PySpark, or the smart shoes I built at age 12 that generated electricity and helped the visually impaired.<br><br>⚡ Fun fact<br>I created my first assistive AI-powered device when I was 12, and I’ve been building ambitious tech ever since.
+# 🚀 About Me
+
+**Hey, I’m Shubham — an AI Software Engineer who loves turning cutting-edge research into production systems.**
+
+---
+
+### 🛰️ Currently Building
+- **Scalable LLM services** – fine-tuning and distilling LLaMA / GPT variants, then serving them via serverless (AWS Lambda + FastAPI) at sub-100 ms p95 latency  
+- **Reinforcement-learning pipelines** – RLHF + online feedback loops that continuously improve prompt quality and model alignment  
+- **Multimodal perception models** – Vision Transformers fused with speech/text for real-time scene understanding on edge devices  
+
+### 🤝 Open to Collaborations On
+- Green-field, **seed-stage AI products** where I can own the full stack: data, modelling, infra, and user-facing APIs  
+- **AI safety / interpretability** projects—especially mechanistic interpretability of large models  
+- OSS tooling for **distributed training, model compression, and observability**
+
+### 🌱 Learning & Exploring
+- Advanced **in-context RL** for agentic workflows  
+- **Ray & Triton** for cost-efficient large-batch inference  
+- **Vector databases** + RAG architectures for enterprise knowledge retrieval  
+
+### 💬 Ask Me About
+- Building **LLM-powered customer support** in < 30 days  
+- Designing **streaming data pipelines** with Databricks, PySpark, and Delta Lake  
+- **Edge AI**: optimizing ViTs with TensorRT & ONNX for ARM/DSP boards  
+
+### ⚡ Fun Fact
+At 12 I hacked together a pair of electricity-generating smart shoes to guide visually impaired users—since then I’ve been chasing ambitious ideas that make tech more *helpful*.
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,aws,pytorch,tensorflow,docker,kubernetes,fastapi,git,githubactions&perline=6"/>
+</p>
 
 
 ## 🌐 Socials:
