@@ -1,4 +1,4 @@
-# 🚀 About Me
+## 🚀 About Me
 
 **Hey, I’m Shubham — an AI Software Engineer who loves turning cutting-edge research into production systems.**
 
@@ -38,7 +38,7 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhamsbhatt/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sssbhatt01@gmail.com) 
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🧠 AI / ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -116,7 +116,7 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shubham-S-Bhatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shubham-S-Bhatt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-S-Bhatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
