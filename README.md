@@ -40,7 +40,7 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 
 # 💻 Tech Stack
 
-## 🧠 AI / ML & Deep Learning
+### 🧠 AI / ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -52,7 +52,7 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 ![Weights & Biases](https://img.shields.io/badge/W&B-%23FFBE00.svg?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-## 🗄️ Data & Streaming
+### 🗄️ Data & Streaming
 ![Apache Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-%230052CC.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Flink-%23E6526F.svg?style=for-the-badge&logo=apacheflink&logoColor=white)
@@ -63,7 +63,7 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Redshift-%23D00060.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## ☁️ Cloud & Serverless
+### ☁️ Cloud & Serverless
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -72,7 +72,7 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 ![Azure ML](https://img.shields.io/badge/Azure%20ML-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## ⚙️ DevOps & MLOps
+### ⚙️ DevOps & MLOps
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%23000C80.svg?style=for-the-badge&logo=helm&logoColor=white)
@@ -82,13 +82,13 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 🔌 Model Serving & Inference
+### 🔌 Model Serving & Inference
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Triton Inference Server](https://img.shields.io/badge/Triton-IS-%2300B140.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 ![TorchServe](https://img.shields.io/badge/TorchServe-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![BentoML](https://img.shields.io/badge/BentoML-%23F38B00.svg?style=for-the-badge)
 
-## 🖥️ Backend & Languages
+### 🖥️ Backend & Languages
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -98,14 +98,14 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 ![TypeScript](https://img.shields.io/badge/TS-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## 📊 Visualization & Scientific Computing
+### 📊 Visualization & Scientific Computing
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 🛠️ Tools & Collaboration
+### 🛠️ Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -121,7 +121,7 @@ At 12 I hacked together a pair of electricity-generating smart shoes to guide vi
 ![](https://nirzak-streak-stats.vercel.app/?user=Shubham-S-Bhatt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-S-Bhatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubham-S-Bhatt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
