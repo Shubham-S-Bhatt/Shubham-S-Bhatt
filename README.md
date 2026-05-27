@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-**Hey, I’m Shubham — an AI Software Engineer who loves turning cutting-edge research into production systems.**
+**Hey, I’m Shubham, an AI Software Engineer who loves turning cutting-edge research into production systems.**
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### 🤝 Open to Collaborations On
 - Green-field, **seed-stage AI products** where I can own the full stack: data, modelling, infra, and user-facing APIs  
-- **AI safety / interpretability** projects—especially mechanistic interpretability of large models  
+- **AI safety/interpretability** projects—especially mechanistic interpretability of large models  
 - OSS tooling for **distributed training, model compression, and observability**
 
 ### 🌱 Learning & Exploring
@@ -25,7 +25,7 @@
 - **Edge AI**: optimizing ViTs with TensorRT & ONNX for ARM/DSP boards  
 
 ### ⚡ Fun Fact
-At 12 I hacked together a pair of electricity-generating smart shoes to guide visually impaired users—since then I’ve been chasing ambitious ideas that make tech more *helpful*.
+At 12, I hacked together a pair of electricity-generating smart shoes to guide visually impaired users—since then, I’ve been chasing ambitious ideas that make tech more *helpful*.
 
 ---
 
